@@ -1,0 +1,17 @@
+.purple__background {
+  background-color: purple;
+
+  width: 35%;
+  height: 85%;
+  position: relative;
+  right: 70px;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+.parent__purple {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  /* background-color: red; */
+}
